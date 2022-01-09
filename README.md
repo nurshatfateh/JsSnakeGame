@@ -1,5 +1,5 @@
 Snake Game Using JavaScript: 
-http://nurshatfatehali.42web.io/
+
 
 
 ![pasted image 0](https://user-images.githubusercontent.com/84605112/128877617-c02fbc21-a6f0-4ef1-8637-27bfdf272b57.jpeg)
